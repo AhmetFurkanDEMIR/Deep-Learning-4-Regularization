@@ -25,4 +25,4 @@
      ![index3](https://user-images.githubusercontent.com/54184905/88781955-b24dd900-d195-11ea-8ba0-89fee5a299cc.png)
 
 
-Kaynak : Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (Coursera)
+* Kaynak : Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (Coursera) - https://www.coursera.org/learn/deep-neural-network
